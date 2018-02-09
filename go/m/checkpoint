@@ -1,0 +1,2 @@
+model_checkpoint_path: "go.ckpt"
+all_model_checkpoint_paths: "go.ckpt"
